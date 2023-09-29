@@ -1,0 +1,84 @@
+C:\Users\Bee\source\repos\COP 2513--002\COP 2513--002\bin\Debug\Properties\DataSources\aDatabase.mdf
+C:\Users\Bee\source\repos\COP 2513--002\COP 2513--002\bin\Debug\Properties\DataSources\aDatabase_log.ldf
+C:\Users\Bee\source\repos\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.exe.config
+C:\Users\Bee\source\repos\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.exe
+C:\Users\Bee\source\repos\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.pdb
+C:\Users\Bee\source\repos\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.AssemblyReference.cache
+C:\Users\Bee\source\repos\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bee\source\repos\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.FormStockLoader.resources
+C:\Users\Bee\source\repos\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.Properties.Resources.resources
+C:\Users\Bee\source\repos\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.GenerateResource.cache
+C:\Users\Bee\source\repos\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.CoreCompileInputs.cache
+C:\Users\Bee\source\repos\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.exe
+C:\Users\Bee\source\repos\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.pdb
+C:\Users\Bee\source\repos\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.aStockGraphLoader.resources
+C:\Users\brend\Desktop\COP 2nd assignment\COP 2513--002\COP 2513--002\bin\Debug\Properties\DataSources\aDatabase.mdf
+C:\Users\brend\Desktop\COP 2nd assignment\COP 2513--002\COP 2513--002\bin\Debug\Properties\DataSources\aDatabase_log.ldf
+C:\Users\brend\Desktop\COP 2nd assignment\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.exe.config
+C:\Users\brend\Desktop\COP 2nd assignment\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.exe
+C:\Users\brend\Desktop\COP 2nd assignment\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.pdb
+C:\Users\brend\Desktop\COP 2nd assignment\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.AssemblyReference.cache
+C:\Users\brend\Desktop\COP 2nd assignment\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.SuggestedBindingRedirects.cache
+C:\Users\brend\Desktop\COP 2nd assignment\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.aStockGraphLoader.resources
+C:\Users\brend\Desktop\COP 2nd assignment\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.FormStockLoader.resources
+C:\Users\brend\Desktop\COP 2nd assignment\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.Properties.Resources.resources
+C:\Users\brend\Desktop\COP 2nd assignment\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.GenerateResource.cache
+C:\Users\brend\Desktop\COP 2nd assignment\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.CoreCompileInputs.cache
+C:\Users\brend\Desktop\COP 2nd assignment\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.exe
+C:\Users\brend\Desktop\COP 2nd assignment\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.pdb
+C:\Users\Bee\Desktop\--002\Final solution project 2\COP 2513--002\COP 2513--002\bin\Debug\Properties\DataSources\aDatabase.mdf
+C:\Users\Bee\Desktop\--002\Final solution project 2\COP 2513--002\COP 2513--002\bin\Debug\Properties\DataSources\aDatabase_log.ldf
+C:\Users\Bee\Desktop\--002\Final solution project 2\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.exe.config
+C:\Users\Bee\Desktop\--002\Final solution project 2\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.exe
+C:\Users\Bee\Desktop\--002\Final solution project 2\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.pdb
+C:\Users\Bee\Desktop\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.AssemblyReference.cache
+C:\Users\Bee\Desktop\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bee\Desktop\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.aStockGraphLoader.resources
+C:\Users\Bee\Desktop\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.FormStockLoader.resources
+C:\Users\Bee\Desktop\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.Properties.Resources.resources
+C:\Users\Bee\Desktop\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.GenerateResource.cache
+C:\Users\Bee\Desktop\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.CoreCompileInputs.cache
+C:\Users\Bee\Desktop\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.exe
+C:\Users\Bee\Desktop\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.pdb
+C:\Users\Bee\Desktop\object oriented programming\--002\Final solution project 2\COP 2513--002\COP 2513--002\bin\Debug\Properties\DataSources\aDatabase.mdf
+C:\Users\Bee\Desktop\object oriented programming\--002\Final solution project 2\COP 2513--002\COP 2513--002\bin\Debug\Properties\DataSources\aDatabase_log.ldf
+C:\Users\Bee\Desktop\object oriented programming\--002\Final solution project 2\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.exe.config
+C:\Users\Bee\Desktop\object oriented programming\--002\Final solution project 2\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.exe
+C:\Users\Bee\Desktop\object oriented programming\--002\Final solution project 2\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.pdb
+C:\Users\Bee\Desktop\object oriented programming\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.AssemblyReference.cache
+C:\Users\Bee\Desktop\object oriented programming\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bee\Desktop\object oriented programming\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.aStockGraphLoader.resources
+C:\Users\Bee\Desktop\object oriented programming\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.FormStockLoader.resources
+C:\Users\Bee\Desktop\object oriented programming\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.Properties.Resources.resources
+C:\Users\Bee\Desktop\object oriented programming\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.GenerateResource.cache
+C:\Users\Bee\Desktop\object oriented programming\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.CoreCompileInputs.cache
+C:\Users\Bee\Desktop\object oriented programming\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.exe
+C:\Users\Bee\Desktop\object oriented programming\--002\Final solution project 2\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.pdb
+C:\Users\brend\Desktop\project_3_final\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.AssemblyReference.cache
+C:\Users\brend\Desktop\project_3_final\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.SuggestedBindingRedirects.cache
+C:\Users\brend\Desktop\project_3_final\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.aStockGraphLoader.resources
+C:\Users\brend\Desktop\project_3_final\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.FormStockLoader.resources
+C:\Users\brend\Desktop\project_3_final\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.Properties.Resources.resources
+C:\Users\brend\Desktop\project_3_final\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.GenerateResource.cache
+C:\Users\brend\Desktop\project_3_final\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.CoreCompileInputs.cache
+C:\Users\brend\Desktop\project_3_final\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.exe
+C:\Users\brend\Desktop\project_3_final\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.pdb
+C:\Users\brend\Desktop\project_3_final\COP 2513--002\COP 2513--002\bin\Debug\Properties\DataSources\aDatabase.mdf
+C:\Users\brend\Desktop\project_3_final\COP 2513--002\COP 2513--002\bin\Debug\Properties\DataSources\aDatabase_log.ldf
+C:\Users\brend\Desktop\project_3_final\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.exe.config
+C:\Users\brend\Desktop\project_3_final\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.exe
+C:\Users\brend\Desktop\project_3_final\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.pdb
+C:\Users\brend\Desktop\obj oriented\Final Coding Project 3 that is Finished\COP 2513--002\COP 2513--002\bin\Debug\Properties\DataSources\aDatabase.mdf
+C:\Users\brend\Desktop\obj oriented\Final Coding Project 3 that is Finished\COP 2513--002\COP 2513--002\bin\Debug\Properties\DataSources\aDatabase_log.ldf
+C:\Users\brend\Desktop\obj oriented\Final Coding Project 3 that is Finished\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.exe.config
+C:\Users\brend\Desktop\obj oriented\Final Coding Project 3 that is Finished\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.exe
+C:\Users\brend\Desktop\obj oriented\Final Coding Project 3 that is Finished\COP 2513--002\COP 2513--002\bin\Debug\COP 2513--002.pdb
+C:\Users\brend\Desktop\obj oriented\Final Coding Project 3 that is Finished\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.AssemblyReference.cache
+C:\Users\brend\Desktop\obj oriented\Final Coding Project 3 that is Finished\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.SuggestedBindingRedirects.cache
+C:\Users\brend\Desktop\obj oriented\Final Coding Project 3 that is Finished\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.aStockGraphLoader.resources
+C:\Users\brend\Desktop\obj oriented\Final Coding Project 3 that is Finished\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.FormStockLoader.resources
+C:\Users\brend\Desktop\obj oriented\Final Coding Project 3 that is Finished\COP 2513--002\COP 2513--002\obj\Debug\COP_2513__002.Properties.Resources.resources
+C:\Users\brend\Desktop\obj oriented\Final Coding Project 3 that is Finished\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.GenerateResource.cache
+C:\Users\brend\Desktop\obj oriented\Final Coding Project 3 that is Finished\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.csproj.CoreCompileInputs.cache
+C:\Users\brend\Desktop\obj oriented\Final Coding Project 3 that is Finished\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.exe
+C:\Users\brend\Desktop\obj oriented\Final Coding Project 3 that is Finished\COP 2513--002\COP 2513--002\obj\Debug\COP 2513--002.pdb
